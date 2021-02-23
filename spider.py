@@ -1,8 +1,9 @@
-# -*- codeing = utf-8 -*-
-# @Time : 2020/3/3 17:51
-# @Author : 李巍
-# @File : spider.py
+# -*- coding = utf-8 -*-
+# @Time :  18:41
+# @Author : fyn
+# @File : testBs4.py
 # @Software: PyCharm
+
 
 from bs4 import BeautifulSoup  # 网页解析，获取数据
 import re  # 正则表达式，进行文字匹配
